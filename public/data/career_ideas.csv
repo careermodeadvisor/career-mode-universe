@@ -1,0 +1,223 @@
+Club name,Category,Nation,League,Difficulty
+Birmingham City,Low Tier,England,Championship,Difficult
+Hull City,Low Tier,England,Championship,Difficult
+Ipswich Town,Low Tier,England,Championship,Difficult
+Leicester City,Low Tier,England,Championship,Difficult
+Norwich City,Low Tier,England,Championship,Very Difficult
+Sheffield United,Low Tier,England,Championship,Very Difficult
+Southampton,Low Tier,England,Championship,Difficult
+Stoke City,Low Tier,England,Championship,Difficult
+Swansea City,Low Tier,England,Championship,Difficult
+Watford,Low Tier,England,Championship,Difficult
+Wrexham AFC,Low Tier,England,Championship,Difficult
+Manchester United,High Tier,England,Premier League,Easy
+Arsenal,High Tier,England,Premier League,Very Easy
+Chelsea,High Tier,England,Premier League,Easy
+Liverpool,High Tier,England,Premier League,Very Easy
+Manchester City,High Tier,England,Premier League,Very Easy
+Tottenham Hotspur,Mid Tier,England,Premier League,Moderate
+Nottingham Forest,Mid Tier,England,Premier League,Difficult
+Newcastle United,Mid Tier,England,Premier League,Moderate
+Crystal Palace,Mid Tier,England,Premier League,Difficult
+Sunderland AFC,Low Tier,England,Premier League,Difficult
+Aston Villa,Mid Tier,England,Premier League,Difficult
+Brentford,Mid Tier,England,Premier League,Difficult
+Brighton,Mid Tier,England,Premier League,Difficult
+Burnley,Low Tier,England,Premier League,Difficult
+Everton,Mid Tier,England,Premier League,Difficult
+Fulham,Mid Tier,England,Premier League,Difficult
+Leeds United,Low Tier,England,Premier League,Difficult
+West Ham,Low Tier,England,Premier League,Difficult
+Wolves,Low Tier,England,Premier League,Difficult
+AFC Bournemouth,Low Tier,England,Premier League,Difficult
+Blackburn Rovers,Low Tier,England,Championship,Very Difficult
+Bristol City,Low Tier,England,Championship,Very Difficult
+Charlton ATH,Low Tier,England,Championship,Very Difficult
+Coventry City,Low Tier,England,Championship,Difficult
+Derby County,Low Tier,England,Championship,Very Difficult
+Middlesbrough,Low Tier,England,Championship,Very Difficult
+Millwall,Low Tier,England,Championship,Very Difficult
+Oxford United,Low Tier,England,Championship,Very Difficult
+Portsmouth,Low Tier,England,Championship,Very Difficult
+Preston,Low Tier,England,Championship,Very Difficult
+QPR,Low Tier,England,Championship,Very Difficult
+Sheffield Wednesday,Low Tier,England,Championship,Very Difficult
+West Brom,Low Tier,England,Championship,Very Difficult
+Red Star FC,Low Tier,France,Ligue 2,Very Difficult
+Paris Saint-Germain,High Tier,France,Ligue 1,Very Easy
+AS Monaco,Mid Tier,France,Ligue 1,Moderate
+Olympique de Marseille,Mid Tier,France,Ligue 1,Moderate
+Olympique Lyonnais,Mid Tier,France,Ligue 1,Moderate
+Lille OSC,Low Tier,France,Ligue 1,Difficult
+Paris FC,Low Tier,France,Ligue 1,Difficult
+Aj Auxerre,Low Tier,France,Ligue 1,Very Difficult
+Angers SCO,Low Tier,France,Ligue 1,Very Difficult
+FC Lorient,Low Tier,France,Ligue 1,Very Difficult
+FC Metz,Low Tier,France,Ligue 1,Very Difficult
+FC Nantes,Low Tier,France,Ligue 1,Very Difficult
+Havre AC,Low Tier,France,Ligue 1,Very Difficult
+OGC Nice,Low Tier,France,Ligue 1,Difficult
+RC Lens,Low Tier,France,Ligue 1,Difficult
+Stade Brestois 29,Low Tier,France,Ligue 1,Very Difficult
+Stade Rennais FC,Low Tier,France,Ligue 1,Very Difficult
+Strasbourg,Low Tier,France,Ligue 1,Difficult
+Toulouse FC,Low Tier,France,Ligue 1,Very Difficult
+Amiens SC,Low Tier,France,Ligue 2,Very Difficult
+FC Annecy,Low Tier,France,Ligue 2,Very Difficult
+SC Bastia,Low Tier,France,Ligue 2,Very Difficult
+US Boulogne,Low Tier,France,Ligue 2,Very Difficult
+Clermont Foot,Low Tier,France,Ligue 2,Very Difficult
+USL Dunkerque,Low Tier,France,Ligue 2,Very Difficult
+Grenoble Foot 38,Low Tier,France,Ligue 2,Very Difficult
+EA Guingamp,Low Tier,France,Ligue 2,Very Difficult
+Stade Lavallois,Low Tier,France,Ligue 2,Very Difficult
+Le Mans FC,Low Tier,France,Ligue 2,Very Difficult
+Montpellier HSC,Low Tier,France,Ligue 2,Very Difficult
+AS Nancy Lorraine,Low Tier,France,Ligue 2,Very Difficult
+Pau FC,Low Tier,France,Ligue 2,Very Difficult
+Stade de Reims,Low Tier,France,Ligue 2,Very Difficult
+Rodez AF,Low Tier,France,Ligue 2,Very Difficult
+AS Saint-Étienne,Low Tier,France,Ligue 2,Very Difficult
+ESTAC Troyes,Low Tier,France,Ligue 2,Very Difficult
+FC Schalke 04,Low Tier,Germany,Bundesliga 2,Difficult
+Hertha BSC,Low Tier,Germany,Bundesliga 2,Very Difficult
+Bayern Munich,Low Tier,Germany,Bundesliga,Very Easy
+Borussia Dortmund,High Tier,Germany,Bundesliga,Easy
+RB Leipzig,Mid Tier,Germany,Bundesliga,Moderate
+Bayer Leverkusen,Mid Tier,Germany,Bundesliga,Moderate
+Eintracht Frankfurt,Mid Tier,Germany,Bundesliga,Moderate
+VfL Wolfsburg,Low Tier,Germany,Bundesliga,Difficult
+FC Union Berlin,Low Tier,Germany,Bundesliga,Difficult
+Borussia Mönchengladbach,Low Tier,Germany,Bundesliga,Difficult
+FC Köln,Low Tier,Germany,Bundesliga,Very Difficult
+FC St. Pauli,Low Tier,Germany,Bundesliga,Very Difficult
+1. FC Heidenheim,Low Tier,Germany,Bundesliga,Very Difficult
+1. FC Union Berlin,Low Tier,Germany,Bundesliga,Difficult
+FC Augsburg,Low Tier,Germany,Bundesliga,Difficult
+Hamburger SV,Low Tier,Germany,Bundesliga,Difficult
+Hoffenheim,Low Tier,Germany,Bundesliga,Difficult
+Mainz 05,Low Tier,Germany,Bundesliga,Difficult
+SC Freiburg,Low Tier,Germany,Bundesliga,Difficult
+VfB Stuttgart,Low Tier,Germany,Bundesliga,Difficult
+Arminia Bielefeld,Low Tier,Germany,Bundesliga 2,Very Difficult
+Darmstadt 98,Low Tier,Germany,Bundesliga 2,Very Difficult
+Dynamo Dresden,Low Tier,Germany,Bundesliga 2,Very Difficult
+Eintracht Braunschweig,Low Tier,Germany,Bundesliga 2,Very Difficult
+Fortuna Düsseldorf,Low Tier,Germany,Bundesliga 2,Very Difficult
+Greuther Fürth,Low Tier,Germany,Bundesliga 2,Very Difficult
+Hannover 96,Low Tier,Germany,Bundesliga 2,Very Difficult
+Holstein Kiel,Low Tier,Germany,Bundesliga 2,Very Difficult
+Karlsruher SC,Low Tier,Germany,Bundesliga 2,Very Difficult
+FC Kaiserslautern,Low Tier,Germany,Bundesliga 2,Very Difficult
+Magdeburg,Low Tier,Germany,Bundesliga 2,Very Difficult
+Nürnberg,Low Tier,Germany,Bundesliga 2,Very Difficult
+Preußen Münster,Low Tier,Germany,Bundesliga 2,Very Difficult
+Paderborn 07,Low Tier,Germany,Bundesliga 2,Very Difficult
+SV Elversberg,Low Tier,Germany,Bundesliga 2,Very Difficult
+VfL Bochum,Low Tier,Germany,Bundesliga 2,Very Difficult
+Palermo FC,Low Tier,Italy,Serie B,Difficult
+Venezia FC,Low Tier,Italy,Serie B,Very Difficult
+AC Milan,High Tier,Italy,Seria A,Easy
+Inter,High Tier,Italy,Seria A,Very Easy
+Juventus,High Tier,Italy,Seria A,Very Easy
+AS Roma,Mid Tier,Italy,Seria A,Moderate
+SSC Napoli,Mid Tier,Italy,Seria A,Moderate
+Atalanta,Low Tier,Italy,Seria A,Difficult
+SS Lazio,Low Tier,Italy,Seria A,Difficult
+Fiorentina,Low Tier,Italy,Seria A,Difficult
+Torino,Low Tier,Italy,Seria A,Very Difficult
+Sassuolo,Low Tier,Italy,Seria A,Very Difficult
+Ajax,Mid Tier,Rest of the World,Eredivisie,Difficult
+SL Benfica,Mid Tier,Rest of the World,Liga Portugal,Difficult
+Celtic,Mid Tier,Rest of the World,Scottish Premiership,Difficult
+Granada CF,Low Tier,Spain,LaLiga 2,Very Difficult
+Málaga CF,Low Tier,Spain,LaLiga 2,Difficult
+Real Valladolid,Low Tier,Spain,LaLiga 2,Very Difficult
+UD Las Palmas,Low Tier,Spain,LaLiga 2,Difficult
+Real Madrid,High Tier,Spain,LaLiga,Very Easy
+FC Barcelona,High Tier,Spain,LaLiga,Very Easy
+Atlético Madrid,High Tier,Spain,LaLiga,Easy
+Sevilla FC,Mid Tier,Spain,LaLiga,Moderate
+Athletic Club,Mid Tier,Spain,LaLiga,Difficult
+Real Betis,Mid Tier,Spain,LaLiga,Difficult
+Real Sociedad,Mid Tier,Spain,LaLiga,Difficult
+Valencia CF,Mid Tier,Spain,LaLiga,Difficult
+Villarreal CF,Mid Tier,Spain,LaLiga,Difficult
+Girona FC,Low Tier,Spain,LaLiga,Difficult
+CA Osasuna,Low Tier,Spain,LaLiga,Very Difficult
+Celta Vigo,Low Tier,Spain,LaLiga,Very Difficult
+Deportivo Alavés,Low Tier,Spain,LaLiga,Very Difficult
+Elche CF,Low Tier,Spain,LaLiga,Very Difficult
+Getafe CF,Low Tier,Spain,LaLiga,Very Difficult
+Levante UD,Low Tier,Spain,LaLiga,Very Difficult
+RCD Espanyol,Low Tier,Spain,LaLiga,Very Difficult
+Rayo Vallecano,Low Tier,Spain,LaLiga,Very Difficult
+Real Mallorca,Low Tier,Spain,LaLiga,Very Difficult
+Real Oviedo,Low Tier,Spain,LaLiga,Very Difficult
+Albacete Balompié,Low Tier,Spain,LaLiga 2,Very Difficult
+UD Almería,Low Tier,Spain,LaLiga 2,Very Difficult
+FC Andorra,Low Tier,Spain,LaLiga 2,Very Difficult
+Burgos CF,Low Tier,Spain,LaLiga 2,Very Difficult
+Cádiz CF,Low Tier,Spain,LaLiga 2,Very Difficult
+CD Castellón,Low Tier,Spain,LaLiga 2,Very Difficult
+AD Ceuta FC,Low Tier,Spain,LaLiga 2,Very Difficult
+Córdoba CF,Low Tier,Spain,LaLiga 2,Very Difficult
+Cultural Leonesa,Low Tier,Spain,LaLiga 2,Very Difficult
+Deportivo La Coruña,Low Tier,Spain,LaLiga 2,Very Difficult
+SD Eibar,Low Tier,Spain,LaLiga 2,Very Difficult
+SD Huesca,Low Tier,Spain,LaLiga 2,Very Difficult
+CD Leganés,Low Tier,Spain,LaLiga 2,Very Difficult
+CD Mirandés,Low Tier,Spain,LaLiga 2,Very Difficult
+Racing de Santander,Low Tier,Spain,LaLiga 2,Very Difficult
+Real Sociedad B,Low Tier,Spain,LaLiga 2,Very Difficult
+Real Sporting de Gijón,Low Tier,Spain,LaLiga 2,Very Difficult
+Real Zaragoza,Low Tier,Spain,LaLiga 2,Very Difficult
+Galatasaray,Mid Tier,Rest of the World,Süper Lig,Moderate
+Bologna,Low Tier,Italy,Seria A,Very Difficult
+Cagliari,Low Tier,Italy,Seria A,Very Difficult
+Como,Low Tier,Italy,Seria A,Difficult
+Cremonese,Low Tier,Italy,Seria A,Very Difficult
+Genoa,Low Tier,Italy,Seria A,Very Difficult
+Hellas Verona,Low Tier,Italy,Seria A,Very Difficult
+Lecce,Low Tier,Italy,Seria A,Very Difficult
+Parma,Low Tier,Italy,Seria A,Very Difficult
+Pisa,Low Tier,Italy,Seria A,Very Difficult
+Udinese,Low Tier,Italy,Seria A,Very Difficult
+Avellino,Low Tier,Italy,Serie B,Very Difficult
+Bari,Low Tier,Italy,Serie B,Very Difficult
+Carrarese,Low Tier,Italy,Serie B,Very Difficult
+Catanzaro,Low Tier,Italy,Serie B,Very Difficult
+Cesena,Low Tier,Italy,Serie B,Very Difficult
+Empoli,Low Tier,Italy,Serie B,Very Difficult
+Frosinone,Low Tier,Italy,Serie B,Very Difficult
+Juve Stabia,Low Tier,Italy,Serie B,Very Difficult
+Mantova,Low Tier,Italy,Serie B,Very Difficult
+Modena,Low Tier,Italy,Serie B,Very Difficult
+Monza,Low Tier,Italy,Serie B,Very Difficult
+Padova,Low Tier,Italy,Serie B,Very Difficult
+Pescara,Low Tier,Italy,Serie B,Very Difficult
+Reggiana,Low Tier,Italy,Serie B,Very Difficult
+Sampdoria,Low Tier,Italy,Serie B,Very Difficult
+Spezia,Low Tier,Italy,Serie B,Very Difficult
+Südtirol,Low Tier,Italy,Serie B,Very Difficult
+Entella,Low Tier,Italy,Serie B,Very Difficult
+FC Kobenhavn,Mid Tier,Rest of the World,3F Superliga,Difficult
+RSC Anderlecht,Mid Tier,Rest of the World,1A Pro League,Difficult
+Royal Antwerp FC,Mid Tier,Rest of the World,1A Pro League,Difficult
+KRC Genk,Mid Tier,Rest of the World,1A Pro League,Difficult
+Club Brugge,Mid Tier,Rest of the World,1A Pro League,Moderate
+Austria Wien,Low Tier,Rest of the World,Ö. Bundesliga,Very Difficult
+RB Salzburg,Mid Tier,Rest of the World,Ö. Bundesliga,Difficult
+Besiktas,Mid Tier,Rest of the World,Süper Lig,Difficult
+Fenerbahce,Mid Tier,Rest of the World,Süper Lig,Moderate
+BSC Young Boys,Low Tier,Rest of the World,Brack Super League,Difficult
+FC Basel,Low Tier,Rest of the World,Brack Super League,Difficult
+Malmö FF,Low Tier,Rest of the World,Allsvenskan,Very Difficult
+Rangers,Mid Tier,Rest of the World,Scottish Premiership,Difficult
+FC Porto,Mid Tier,Rest of the World,Liga Portugal,Moderate
+SC Braga,Mid Tier,Rest of the World,Liga Portugal,Difficult
+Sporting CP,Mid Tier,Rest of the World,Liga Portugal,Moderate
+FK Bodo/Glimt,Low Tier,Rest of the World,Eliteserien,Difficult
+AZ,Mid Tier,Rest of the World,Eredivisie,Difficult
+Feyenoord,Mid Tier,Rest of the World,Eredivisie,Difficult
+PSV,Mid Tier,Rest of the World,Eredivisie,Difficult
