@@ -100,14 +100,14 @@ const usageData = await getOrCreateMonthlyUsage(data.user.id);
 
 const { data: profileData } = await supabase
   .from("profiles")
-  .select("plan")
+  .select("plan, stripe_customer_id")
   .eq("id", data.user.id)
   .single();
 
 setUsage(usageData);
 console.log("PROFILE DATA:", profileData);
 setPlan(profileData?.plan || "free");
-
+setStripeCustomerId(profileData?.stripe_customer_id || null);
 setAuthLoading(false);
     }
 
@@ -121,7 +121,7 @@ const [plan, setPlan] = useState<"free" | "pro" | "ultimate">("free");
   const [players, setPlayers] = useState<Player[]>([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState("");
-
+const [stripeCustomerId, setStripeCustomerId] = useState<string | null>(null);
   const [careerIdeas, setCareerIdeas] = useState<CareerIdea[]>([]);
   const [tierChallenges, setTierChallenges] = useState<TierChallenges>({
     "High Tier": [],
@@ -375,7 +375,34 @@ if (authLoading) {
 >
   Upgrade / View Plans
 </a>
+{stripeCustomerId && (
+  <button
+    className="landing-button secondary"
+    style={{ marginTop: 12, display: "inline-block" }}
+    onClick={async () => {
+      const response = await fetch("/api/portal", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({
+          customerId: stripeCustomerId,
+        }),
+      });
 
+      const data = await response.json();
+
+      if (data.error) {
+        alert(data.error);
+        return;
+      }
+
+      window.location.href = data.url;
+    }}
+  >
+    Manage Subscription
+  </button>
+)}
         </section>
 
         <section className="tool-grid">

@@ -4,29 +4,39 @@ import { supabase } from "@/lib/supabase";
 
 export default function PricingPage() {
   async function upgradePlan(plan: "free" | "pro" | "ultimate") {
-    const { data } = await supabase.auth.getUser();
+  const { data } = await supabase.auth.getUser();
 
-    if (!data.user) {
-      window.location.href = "/auth";
-      return;
-    }
+  if (!data.user) {
+    window.location.href = "/auth";
+    return;
+  }
 
-    const { error } = await supabase
-  .from("profiles")
-  .upsert({
-    id: data.user.id,
-    email: data.user.email,
-    plan,
+  if (plan === "free") {
+    window.location.href = "/app";
+    return;
+  }
+
+  const response = await fetch("/api/checkout", {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json",
+    },
+    body: JSON.stringify({
+      plan,
+      userId: data.user.id,
+      email: data.user.email,
+    }),
   });
 
-    if (error) {
-      alert(error.message);
-      return;
-    }
+  const checkoutData = await response.json();
 
-    alert(`Plan updated to ${plan.toUpperCase()}`);
-    window.location.href = "/app";
+  if (checkoutData.error) {
+    alert(checkoutData.error);
+    return;
   }
+
+  window.location.href = checkoutData.url;
+}
 
   const plans = [
     {
