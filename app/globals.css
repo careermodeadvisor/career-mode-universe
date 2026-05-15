@@ -1229,3 +1229,21 @@ th {
     align-items: flex-start;
   }
 }
+.landing-footer {
+  margin-top: 32px;
+  padding-bottom: 40px;
+  display: flex;
+  justify-content: center;
+  gap: 18px;
+  color: var(--muted);
+}
+
+.landing-footer a {
+  color: var(--muted);
+  text-decoration: none;
+  font-weight: 700;
+}
+
+.landing-footer a:hover {
+  color: var(--text);
+}

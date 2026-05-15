@@ -116,6 +116,11 @@ export default function HomePage() {
           Explore Plans
         </a>
       </section>
+      <footer className="landing-footer">
+        <a href="/privacy">Privacy</a>
+        <a href="/terms">Terms</a>
+        <a href="/refund">Refund Policy</a>
+      </footer>
     </main>
   );
 }
