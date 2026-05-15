@@ -44,6 +44,30 @@ export async function POST(request: Request) {
 });
     }
   }
+if (event.type === "customer.subscription.deleted") {
+  const subscription = event.data.object as Stripe.Subscription;
 
+  const customerId = subscription.customer as string;
+
+  await supabaseAdmin
+    .from("profiles")
+    .update({
+      plan: "free",
+      stripe_customer_id: null,
+    })
+    .eq("stripe_customer_id", customerId);
+}
+if (event.type === "invoice.payment_failed") {
+  const invoice = event.data.object as Stripe.Invoice;
+
+  const customerId = invoice.customer as string;
+
+  await supabaseAdmin
+    .from("profiles")
+    .update({
+      plan: "free",
+    })
+    .eq("stripe_customer_id", customerId);
+}
   return NextResponse.json({ received: true });
 }
