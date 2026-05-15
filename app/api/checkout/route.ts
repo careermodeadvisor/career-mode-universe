@@ -26,6 +26,11 @@ export async function POST(request: Request) {
     mode: "subscription",
     payment_method_types: ["card"],
     customer_email: email,
+    billing_address_collection: "required",
+
+phone_number_collection: {
+  enabled: true,
+},
     line_items: [
       {
         price: priceId,
