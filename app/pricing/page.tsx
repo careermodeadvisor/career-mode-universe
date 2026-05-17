@@ -54,7 +54,7 @@ export default function PricingPage() {
     },
     {
       name: "Pro",
-      price: "$5.99",
+      price: "$3.99",
       description: "For serious managers building elite saves.",
       features: [
         "10 Squad IQ generations / month",
@@ -67,7 +67,7 @@ export default function PricingPage() {
     },
     {
       name: "Ultimate",
-      price: "$8.99",
+      price: "$5.99",
       description: "Unlimited access to every premium tool.",
       features: [
         "Unlimited Squad IQ",

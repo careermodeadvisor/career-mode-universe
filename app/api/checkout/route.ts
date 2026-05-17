@@ -9,8 +9,8 @@ export async function POST(request: Request) {
   const { plan, userId, email } = body;
 
   const priceMap = {
-    pro: "price_1TXHKiLEzXmEGBoaWneZamVQ",
-    ultimate: "price_1TXHKzLEzXmEGBoasYqtNxt8",
+    pro: "price_1TY8sNLEzXmEGBoa0n3jNm9n",
+    ultimate: "price_1TY8qnLEzXmEGBoap8EsWMrc",
   };
 
   const priceId = priceMap[plan as "pro" | "ultimate"];
